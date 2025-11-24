@@ -41,7 +41,8 @@ This project streamlines the end-to-end appointment lifecycle for patients and d
 
 ## 📸 Screenshots
 
-![Screenshot]([images/homepage.png](https://github.com/AnujKumarC/health-appointment/blob/51f75ad8535f494470bc5e8d3874dbd6031e7e42/Screenshot%202025-11-23%20232012.png))
+![Screenshot](https://raw.githubusercontent.com/AnujKumarC/health-appointment/main/Screenshot%202025-11-23%20232014.png)
+
 
 
 ## 📌 Project Status
@@ -55,4 +56,5 @@ This initiative is in a stable release milestone and ready for functional review
 ---
 
 If you want I can tailor this README for maximum impact — like adding screenshots, feature matrix, badges, or a more corporate documentation tone. Just say the word!
+
 
