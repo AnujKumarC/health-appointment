@@ -21,30 +21,30 @@ This project streamlines the end-to-end appointment lifecycle for patients and d
 ## 📂 Project Structure
 
 health-appointment
-│
-│── index.php                      # Home page
-│── book_appointment.php           # Book appointment page
-│── appointment_success.php        # Appointment confirmation
-│── db.php                         # DB connection file
-│── logout.php                     # Logout handler
+│── index.php                     # Home page
+│── book_appointment.php          # Patient books an appointment
+│── appointment_success.php       # Booking confirmation page
+│── db.php                        # Database connection file
+│── logout.php                    # Logout handler
 │
 ├── admin/
-│   │── admin_login.php            # Admin login
-│   │── admin_dashboard.php        # Admin panel
-│   │── add_doctor.php             # Add new doctor
-│   │── manage_patients.php        # Manage patient records
-│   │── manage_appointments.php    # Manage booked appointments
+│   │── admin_login.php           # Admin Login
+│   │── admin_dashboard.php       # Admin Dashboard
+│   │── add_doctor.php            # Add new doctor
 │
 ├── patient/
-│   │── patient_login.php          # Patient login
-│   │── patient_register.php       # Patient registration
-│   │── patient_dashboard.php      # Patient dashboard
+│   │── patient_login.php         # Patient Login
+│   │── patient_register.php      # Patient Registration
+│   │── patient_dashboard.php     # Patient Dashboard
+│
+├── manage_patients.php           # Admin – Manage Patients
+├── manage_appointments.php       # Admin – Manage Appointments
+├── mysql.txt                     # Database schema (tables included)
 │
 ├── css/
-│   │── style.css                  # Project styling
+│   │── style.css                 # Project styling
 │
-└── sql/
-    │── mysql.txt                  # Database schema (tables included)  
+└── README.md                     # Project documentation
 
 
 ## ⚙️ Deployment Workflow
@@ -104,6 +104,7 @@ This initiative is in a stable release milestone and ready for functional review
 ---
 
 If you want I can tailor this README for maximum impact — like adding screenshots, feature matrix, badges, or a more corporate documentation tone. Just say the word!
+
 
 
 
