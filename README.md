@@ -20,7 +20,7 @@ This project streamlines the end-to-end appointment lifecycle for patients and d
 
 ## 📂 Project Structure
 
-/health-appointment
+health-appointment
 │── index.php
 │── login.php
 │── register.php
@@ -88,6 +88,7 @@ This initiative is in a stable release milestone and ready for functional review
 ---
 
 If you want I can tailor this README for maximum impact — like adding screenshots, feature matrix, badges, or a more corporate documentation tone. Just say the word!
+
 
 
 
