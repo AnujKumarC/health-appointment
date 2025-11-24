@@ -24,13 +24,13 @@ health-appointment
 │── index.php                     # Home page
 │── book_appointment.php          # Patient books an appointment
 │── appointment_success.php       # Booking confirmation page
-│── db.php                        # Database connection file
+│── db.php                        # Database connection
 │── logout.php                    # Logout handler
 │
 ├── admin/
 │   │── admin_login.php           # Admin Login
 │   │── admin_dashboard.php       # Admin Dashboard
-│   │── add_doctor.php            # Add new doctor
+│   │── add_doctor.php            # Add doctor
 │
 ├── patient/
 │   │── patient_login.php         # Patient Login
@@ -39,12 +39,12 @@ health-appointment
 │
 ├── manage_patients.php           # Admin – Manage Patients
 ├── manage_appointments.php       # Admin – Manage Appointments
-├── mysql.txt                     # Database schema (tables included)
+├── mysql.txt                     # Database schema
 │
 ├── css/
-│   │── style.css                 # Project styling
+│   │── style.css                 # Main stylesheet
 │
-└── README.md                     # Project documentation
+└── README.md                     # Documentation
 
 
 ## ⚙️ Deployment Workflow
@@ -104,6 +104,7 @@ This initiative is in a stable release milestone and ready for functional review
 ---
 
 If you want I can tailor this README for maximum impact — like adding screenshots, feature matrix, badges, or a more corporate documentation tone. Just say the word!
+
 
 
 
